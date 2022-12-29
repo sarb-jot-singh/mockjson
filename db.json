@@ -2,7 +2,8 @@
 
   {
     "mine": true,
-    "message": "hello there"
+    "message": "hello there",
+    "bo":8
   },
 {
     "mine": false,
