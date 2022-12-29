@@ -1,56 +1,51 @@
 [
-
-	{
-		"mine": true,
-		"message": "hello there",
-		"bo": 8
-	},
-	{
-		"mine": false,
-		"message": "hello"
-	},
-	{
-		"mine": true,
-		"message": "i was Wondering , How much I have to wait"
-	},
-	{
-		"mine": false,
-		"message": "Wait a minute, i just confirm"
-	},
-	{
-		"mine": true,
-		"message": "hello there"
-	},
-	{
-		"mine": false,
-		"message": "hello"
-	},
-	{
-		"mine": true,
-		"message": "i was Wondering , How much I have to wait"
-	},
-	{
-		"mine": false,
-		"message": "Wait a minute, i just confirm"
-	},
-	{
-		"mine": true,
-		"message": "hello there"
-	},
-	{
-		"mine": false,
-		"message": "hello"
-	},
-	{
-		"mine": true,
-		"message": "i was Wondering , How much I have to wait"
-	},
-	{
-		"mine": false,
-		"message": "Wait a minute, i just confirm"
-	}
-
-
-
-
+   {
+      "mine":true,
+      "message":"hello there",
+      "bo":8
+   },
+   {
+      "mine":false,
+      "message":"hello"
+   },
+   {
+      "mine":true,
+      "message":"i was Wondering , How much I have to wait"
+   },
+   {
+      "mine":false,
+      "message":"Wait a minute, i just confirm"
+   },
+   {
+      "mine":true,
+      "message":"hello there"
+   },
+   {
+      "mine":false,
+      "message":"hello"
+   },
+   {
+      "mine":true,
+      "message":"i was Wondering , How much I have to wait"
+   },
+   {
+      "mine":false,
+      "message":"Wait a minute, i just confirm"
+   },
+   {
+      "mine":true,
+      "message":"hello there"
+   },
+   {
+      "mine":false,
+      "message":"hello"
+   },
+   {
+      "mine":true,
+      "message":"i was Wondering , How much I have to wait"
+   },
+   {
+      "mine":false,
+      "message":"Wait a minute, i just confirm"
+   }
 ]
